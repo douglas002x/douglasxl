@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ponto Turístico em Bragança Paulista</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 15px 0;
+        }
+
+        main {
+            padding: 20px;
+            margin: 0 auto;
+            max-width: 800px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+
+        a {
+            color: #333;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            color: #000;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px 0;
+            box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .place {
+            margin-bottom: 30px;
+            border-radius: 5px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+            padding: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Ponto Turístico em Bragança Paulista</h1>
+    </header>
+
+    <main>
+        <h2>Saída do Lago do Taboão</h2>
+        <p>A Saída do Lago do Taboão é um local encantador em Bragança Paulista, conhecido por sua beleza natural e atividades ao ar livre. O lago oferece opções de passeios de barco, trilhas para caminhadas e uma paisagem deslumbrante para apreciar.</p>
+
+        <a href="meus-lugares-favoritos.html">Descubra meus lugares favoritos na cidade!</a>
+
+        <img src="https://example.com/saida-lago-taboao.jpg" alt="Saída do Lago do Taboão">
+
+        <p>Venha desfrutar da tranquilidade deste local, cercado pela natureza exuberante da região.</p>
+    </main>
+
+    <footer>
+        <p>© 2023 Ponto Turístico em Bragança Paulista</p>
+    </footer>
+</body>
+
+</html>
