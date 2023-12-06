@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ponto Turístico em Bragança Paulista</title>
+    <style>
+        /* Estilos simples para melhorar a aparência */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 15px 0;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Ponto Turístico em Bragança Paulista</h1>
+    </header>
+
+    <main>
+        <h2>Saída do Lago do Taboão</h2>
+        <p>A Saída do Lago do Taboão é um local encantador em Bragança Paulista, conhecido por sua beleza natural e atividades ao ar livre. O lago oferece opções de passeios de barco, trilhas para caminhadas e uma paisagem deslumbrante para apreciar.</p>
+
+        <img src="https://example.com/saida-lago-taboao.jpg" alt="Saída do Lago do Taboão" width="500">
+
+        <p>Venha desfrutar da tranquilidade deste local, cercado pela natureza exuberante da região.</p>
+    </main>
+
+    <footer>
+        <p>© 2023 Ponto Turístico em Bragança Paulista</p>
+    </footer>
+</body>
+
+</html>
