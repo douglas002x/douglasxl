@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Exemplo Flexbox</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        .box {
+            width: 200px;
+            height: 200px;
+            background-color: #3498db;
+            color: #fff;
+            text-align: center;
+            line-height: 200px;
+            font-size: 24px;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">Movimente-me com Flexbox!</div>
+</body>
+
+</html>
+
+      E o código CSS:
+
+styles.css
+
+      /* Estilos para a classe .box */
+.box {
+    transition: all 0.3s ease-in-out;
+}
+
+/* Estilos ao passar o mouse */
+.box:hover {
+    transform: scale(1.1);
+}
